@@ -8,16 +8,18 @@ Hello from my new project. In this project, I made real the works on classificat
 ### Results 1
 - n_samples : 5000 , n_features : 3, n_classes : 3, random_state : 0, noise_class : 0.3 <br>
 - Classification_Data1(5000, 3, 3, 0, 0.3)<br>
-![result1](https://raw.githubusercontent.com/ihsncnkz/The-Research-of-Machine-Learning-Models/main/Results_image/Result1.png?token=GHSAT0AAAAAABXFIBPDORUIMKPWHKEGLWFQY25N4YQ)
+![result1](https://github.com/ihsncnkz/The-Research-of-Machine-Learning-Models/blob/main/Results_image/Result1.png)
 
 ### Results 2
 - n_samples : 5000, noise_moon : 0.3, random_state : 0.3 <br>
 - moon_classify(5000, 0.3, 0)<br>
-![result2](https://raw.githubusercontent.com/ihsncnkz/The-Research-of-Machine-Learning-Models/main/Results_image/Result2.png?token=GHSAT0AAAAAABXFIBPDVC7IK734NR7LPFU2Y25N5UA)
-![result2_1](https://raw.githubusercontent.com/ihsncnkz/The-Research-of-Machine-Learning-Models/main/Results_image/Result2_1.png?token=GHSAT0AAAAAABXFIBPCSH7ZY2DGUXRULE5QY25N5XQ)
+![result2](https://github.com/ihsncnkz/The-Research-of-Machine-Learning-Models/blob/main/Results_image/Result2.png)
+![result2_1](https://github.com/ihsncnkz/The-Research-of-Machine-Learning-Models/blob/main/Results_image/Result2_1.png)
 
 ### Results 3
 - n_samples: 5000, noise_circle: 0.3, random_state: 0, factor : 0.2 <br>
 - Circle_Classify(5000, 0.3, 0, 0.2)<br>
-![result3](https://raw.githubusercontent.com/ihsncnkz/The-Research-of-Machine-Learning-Models/main/Results_image/Result3.png?token=GHSAT0AAAAAABXFIBPCLPXI44Q5O2I5YSW4Y25N6HA)
-![result3_1](https://raw.githubusercontent.com/ihsncnkz/The-Research-of-Machine-Learning-Models/main/Results_image/Result3_1.png?token=GHSAT0AAAAAABXFIBPDH7DWEA5XYMFRSQDIY25N6LA)
+![result3](https://github.com/ihsncnkz/The-Research-of-Machine-Learning-Models/blob/main/Results_image/Result3.png)
+![result3_1](https://github.com/ihsncnkz/The-Research-of-Machine-Learning-Models/blob/main/Results_image/Result3_1.png)
+
+I prepared this project with the contribution of DATAI TEAM udemy courses. Thanks everything DATAI TEAM.
